@@ -13,6 +13,7 @@ In this project have implemented huffman coding algorithm in java.
   - [Huffman Encoding](#huffman-encoding)
   - [What I learned](#what-i-learned)
   - [Useful resources](#useful-resources)
+  - [Output](#output)
 - [Author](#author)
 
 
