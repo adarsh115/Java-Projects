@@ -112,7 +112,7 @@ APPROACH:
 - B(5) + c(6) = newnode3(11);
 - newnnode2(9) + newnode3(11) = newnode4(20)
 
-![Screenshot](https://github.com/adarsh115/Java-Projects/blob/main/HuffMan%20Coding%20Text%20Compression/tree1.jpeg)
+![Screenshot](https://github.com/adarsh115/Java-Projects/blob/main/HuffMan%20Coding%20Text%20Compression/tree1.jpeg width="400" height="790")
 
 - Now with the help of this tree we will generate codes.
 - Start from top most node, start moving down and mark left edges (0) and right edges (1)
