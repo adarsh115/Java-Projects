@@ -1,7 +1,7 @@
 # HuffMan Coding Algorithm
 
 
-In this project have implemented huffman coding algorithm in java.
+In this project I have implemented huffman coding algorithm in java.
 
 ## Table of contents
 
