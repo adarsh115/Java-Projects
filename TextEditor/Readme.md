@@ -7,7 +7,6 @@ In this project have made a Text editor desktop application using java and swing
 ## Table of contents
 
 - [Overview](#overview)
-  - [Project Overview](#project-overview)
 - [My process](#my-process)
   - [Tools and Technology](#tools-and-technology)
   - [Layout](#layout)
@@ -20,8 +19,6 @@ In this project have made a Text editor desktop application using java and swing
 <br/>
 
 ## Overview
-
-### Project Overview
 
 Text editor is a very simple application which comes preinstalled with in every desktop operating system. For example windows has Notepad.
 We will be making similar desktop application, a text editor but with less features.
