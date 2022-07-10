@@ -34,7 +34,7 @@ Features:
 - Change Font Size
 
 
-![Screenshot](https://github.com/adarsh115/Java-Projects/blob/main/HuffMan%20Coding%20Text%20Compression/hqdefault.jpg)
+![Screenshot](https://github.com/adarsh115/Java-Projects/blob/main/TextEditor/quickpad.PNG)
 
 <br/>
 
