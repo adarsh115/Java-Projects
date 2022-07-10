@@ -54,11 +54,11 @@ Features:
 
 ### Layout
 I started project by making a GUI class which will have all the components required for making this desktop application functional. 
--createWindow(): Window for desktop application
--createTextArea(): This will give users text area for writing and editing text
--createMenuBar(): Top menu which have formating and file menu
--createFileMenu(): This is file menu inside of Menu bar, allows user to open, save and save as file
--CreatFormatMenu(): This is for formatting text, basically it provide user with changing font size & style and text wrapping 
+- createWindow(): Window for desktop application
+- createTextArea(): This will give users text area for writing and editing text
+- createMenuBar(): Top menu which have formating and file menu
+- createFileMenu(): This is file menu inside of Menu bar, allows user to open, save and save as file
+- CreatFormatMenu(): This is for formatting text, basically it provide user with changing font size & style and text wrapping 
 
 
 ### What I learned
