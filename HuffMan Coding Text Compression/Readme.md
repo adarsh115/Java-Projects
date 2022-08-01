@@ -31,6 +31,7 @@ There are mainly two parts. First one to create a Huffman tree, and another one 
 For an example, consider some strings “YYYZXXYYX”, the frequency of character Y is larger than X and the character Z has the least frequency. So the length of the code for Y is smaller than X, and code for X will be smaller than Z.
 
 ![Screenshot](https://github.com/adarsh115/Java-Projects/blob/main/HuffMan%20Coding%20Text%20Compression/hqdefault.jpg)
+![](https://github.com/adarsh115/Frontend-Projects/blob/main/stats-preview-card-component-main/design/desktop-design.jpg)
 
 <br/>
 
