@@ -30,8 +30,8 @@ There are mainly two parts. First one to create a Huffman tree, and another one 
 
 For an example, consider some strings “YYYZXXYYX”, the frequency of character Y is larger than X and the character Z has the least frequency. So the length of the code for Y is smaller than X, and code for X will be smaller than Z.
 
-![Screenshot](https://github.com/adarsh115/Java-Projects/blob/main/HuffMan%20Coding%20Text%20Compression/hqdefault.jpg)
-![](https://github.com/adarsh115/Frontend-Projects/blob/main/stats-preview-card-component-main/design/desktop-design.jpg)
+
+![](https://github.com/adarsh115/Java-Projects/blob/main/HuffMan%20Coding%20Text%20Compression/hqdefault.jpg)
 
 <br/>
 
@@ -114,12 +114,12 @@ APPROACH:
 - B(5) + c(6) = newnode3(11);
 - newnnode2(9) + newnode3(11) = newnode4(20)
 
-![Screenshot](https://github.com/adarsh115/Java-Projects/blob/main/HuffMan%20Coding%20Text%20Compression/tree1.jpeg)
+![](https://github.com/adarsh115/Java-Projects/blob/main/HuffMan%20Coding%20Text%20Compression/tree1.jpeg)
 
 - Now with the help of this tree we will generate codes.
 - Start from top most node, start moving down and mark left edges (0) and right edges (1)
 
-![Screenshot](https://github.com/adarsh115/Java-Projects/blob/main/HuffMan%20Coding%20Text%20Compression/tree2.jpeg)
+![](https://github.com/adarsh115/Java-Projects/blob/main/HuffMan%20Coding%20Text%20Compression/tree2.jpeg)
 
 - Now, to generate code for each character follow a path from root onwards(top most node) till the character. The path formed by marked edges will the code for respective alphabets.
 
@@ -148,7 +148,7 @@ So using Huffman encoding we obtained a encoded message size of 97 bits which is
 
 ### Output
 
-![Screenshot](https://github.com/adarsh115/Java-Projects/blob/main/HuffMan%20Coding%20Text%20Compression/OUTPUT.PNG)
+![](https://github.com/adarsh115/Java-Projects/blob/main/HuffMan%20Coding%20Text%20Compression/OUTPUT.PNG)
 
 ### What I learned
 - Encoding & Decoding
